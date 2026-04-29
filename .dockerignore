@@ -1,0 +1,34 @@
+# Git
+.git/
+.gitignore
+
+# Python cache
+__pycache__/
+*.py[oc]
+*.pyo
+
+# Virtual environments
+.venv/
+
+# uv cache
+.cache/
+
+# Environment files
+.env
+.env.*
+
+# Editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Docs & misc
+README.md
+*.md
