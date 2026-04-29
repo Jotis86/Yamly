@@ -2,8 +2,6 @@
 
 ![Yamly Banner](image/banner.png)
 
-# ⚡ Yamly
-
 **Aprende, explora y descarga plantillas de GitHub Actions listas para usar**
 
 [![Lint](https://github.com/Jotis86/yamly/actions/workflows/lint.yml/badge.svg)](https://github.com/Jotis86/yamly/actions/workflows/lint.yml)
