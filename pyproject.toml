@@ -1,7 +1,7 @@
 [project]
 name = "yamly"
 version = "0.1.0"
-description = "Add your description here"
+description = "Build GitHub Actions workflows from templates and export production-ready YAML in seconds"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
